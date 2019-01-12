@@ -1,0 +1,207 @@
+body {
+    margin: 0;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 0.94rem;
+    font-weight: 400;
+    line-height: 1.2;
+    color: #212529;
+    text-align: left;
+    background-color: #fff;
+}
+
+.brand {
+    width: 35px;
+    height: 35px;
+    padding: 3px;
+    border-radius: 50%;
+    background-color: #fff;
+}
+
+.title-brand {
+    font-size: 27px;
+    color: #fff;
+}
+
+.title-brand:hover {
+    font-size: 27px;
+    color: #fff;
+}
+
+.username {
+    color: #fff;
+    text-decoration: none;
+}
+
+.username:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+.username:focus {
+    color: #fff;    
+    text-decoration: none;
+}
+
+.bg-purple {
+  background: -webkit-linear-gradient(left, #AC92EC 0%, #7652D1 100%);
+  background: -o-linear-gradient(left, #AC92EC 0%, #7652D1 100%);
+  background: linear-gradient(to right, #AC92EC 0%, #7652D1 100%);
+}
+
+.bg-light {
+    background-color: #fff!important;
+}
+
+.navbar-menu {
+    margin-top: 60px;
+    z-index: 1029;
+}
+
+.content {
+    margin-top: 145px;
+    min-height: 400px;
+}
+
+.alert-dismissible .close {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: .45rem 1.25rem;
+    color: inherit;
+}
+
+.text-primary {
+  color: #967ADC!important;
+}
+
+a.text-primary:hover, a.text-primary:focus {
+  color: #7652d1 !important;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #967ADC;
+  border-color: #967ADC;
+}
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: #7652d1;
+  border-color: #704acf;
+}
+
+.btn-primary:focus, .btn-primary.focus {
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
+  background-color: #7652d1;
+  border-color: #704acf;
+}
+
+.btn-primary.disabled, .btn-primary:disabled {
+  color: #fff;
+  background-color: #7652d1;
+  border-color: #704acf;
+}
+
+.btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active,
+.show > .btn-primary.dropdown-toggle {
+  color: #fff;
+  background-color: #7652d1;
+  border-color: #704acf;
+}
+
+.btn-primary:not(:disabled):not(.disabled):active:focus, .btn-primary:not(:disabled):not(.disabled).active:focus,
+.show > .btn-primary.dropdown-toggle:focus {
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
+  background-color: #7652d1;
+  border-color: #704acf;
+}
+
+table.dataTable thead>tr>th.sorting_asc, table.dataTable thead>tr>th.sorting_desc, table.dataTable thead>tr>th.sorting, table.dataTable thead>tr>td.sorting_asc, table.dataTable thead>tr>td.sorting_desc, table.dataTable thead>tr>td.sorting {
+    padding-right: 30px;
+    text-align: center;
+}
+
+div.dataTables_wrapper div.dataTables_paginate ul.pagination {
+    margin: 10px 0;
+    white-space: nowrap;
+    justify-content: flex-end;
+}
+
+.dataTables_scroll {
+    border-bottom: 1px solid #dee2e6;
+}
+
+.page-item.active .page-link {
+    z-index: 1;
+    color: #fff;
+    background-color: #17a2b8;
+    border-color: #17a2b8;
+}
+
+.card-footer {
+    padding: .75rem 1.25rem;
+    background-color: #fff;
+    border-top: 1px solid rgba(0,0,0,.125);
+}
+
+.btn-menu {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.preloader {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 9999;
+  background-color: rgba(255, 255, 255, 0.7);
+}
+
+.preloader .loading {
+  position: absolute;
+  left: 50%;
+  top: 46%;
+  transform: translate(-50%,-50%);
+  font: 14px arial;
+  text-align: center;
+}
+
+.logo-preview {
+    padding: .25rem;
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+    width: 15rem;
+    height: 15rem;
+    border-radius: 50%;
+}
+
+.logo-preview-border {
+    padding: 1rem;
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: .25rem;
+    width: 17rem;
+    height: 17rem;
+}
+
+.left {
+    text-align: left;
+}
+
+.center {
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+}
+
+.title-icon {
+    margin-right: 7px;
+}
+
+.border {
+    border: 0.5px solid #dee2e6!important;
+}

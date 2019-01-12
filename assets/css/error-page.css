@@ -1,0 +1,90 @@
+:root {
+  --input-padding-x: .75rem;
+  --input-padding-y: .75rem;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  display: -ms-flexbox;
+  display: -webkit-box;
+  display: flex;
+  -ms-flex-align: center;
+  -ms-flex-pack: center;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background: #f2f7f8;
+}
+
+.form-signin {
+  width: 100%;
+  max-width: 500px;
+  padding: 15px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.form-signin h1 {
+  font-size: 7rem;
+}
+
+.form-signin h3 {
+  font-size: 1.7rem;
+}
+
+.title-icon {
+  margin-right: 7px;
+}
+
+.text-primary {
+  color: #967ADC!important;
+}
+
+a.text-primary:hover, a.text-primary:focus {
+  color: #7652d1 !important;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #967ADC;
+  border-color: #967ADC;
+}
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: #7652d1;
+  border-color: #704acf;
+}
+
+.btn-primary:focus, .btn-primary.focus {
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
+  background-color: #7652d1;
+  border-color: #704acf;
+}
+
+.btn-primary.disabled, .btn-primary:disabled {
+  color: #fff;
+  background-color: #7652d1;
+  border-color: #704acf;
+}
+
+.btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active,
+.show > .btn-primary.dropdown-toggle {
+  color: #fff;
+  background-color: #7652d1;
+  border-color: #704acf;
+}
+
+.btn-primary:not(:disabled):not(.disabled):active:focus, .btn-primary:not(:disabled):not(.disabled).active:focus,
+.show > .btn-primary.dropdown-toggle:focus {
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
+  background-color: #7652d1;
+  border-color: #704acf;
+}

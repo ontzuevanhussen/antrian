@@ -1,0 +1,41 @@
+<IfModule mod_rewrite.c>
+RewriteEngine on
+
+# ----- Memformat / menulis ulang URL -----
+RewriteRule ^login$ login_form.php [L]
+RewriteRule ^login-check$ login_check.php [L]
+RewriteRule ^logout$ logout.php [L]
+RewriteRule ^logout-success$ login_form.php?alert=1 [L]
+RewriteRule ^login-error$ login_form.php?alert=2 [L]
+
+RewriteRule ^main$ main.php [L]
+RewriteRule ^beranda$ modules/beranda/view.php [L]
+
+RewriteRule ^pelanggan$ modules/pelanggan/view.php [L]
+
+RewriteRule ^pulsa$ modules/pulsa/view.php [L]
+
+RewriteRule ^penjualan$ modules/penjualan/view.php [L]
+RewriteRule ^nota-(.*)$ modules/penjualan/nota.php?id=$1 [L]
+
+RewriteRule ^laporan$ modules/laporan/view.php [L]
+RewriteRule ^cetak-(.*)-sd-(.*)$ modules/laporan/cetak.php?tgl_awal=$1&tgl_akhir=$2 [L]
+RewriteRule ^export-(.*)-sd-(.*)$ modules/laporan/export.php?tgl_awal=$1&tgl_akhir=$2 [L]
+
+RewriteRule ^konfigurasi$ modules/konfigurasi/view.php [L]
+
+RewriteRule ^user$ modules/user/view.php [L]
+
+RewriteRule ^backupdb$ modules/backup-database/view.php [L]
+
+RewriteRule ^audit$ modules/audit-trail/view.php [L]
+
+RewriteRule ^password$ modules/password/view.php [L]
+
+# ----- Membuat halaman khusus yang berisi pesan kesalahan ----- 
+ErrorDocument 404 http://localhost/pulsa/404.html
+ErrorDocument 403 http://localhost/pulsa/403.html
+
+# ----- Memproteksi direktori pada aplikasi ----- 
+Options All -Indexes
+</IfModule>
