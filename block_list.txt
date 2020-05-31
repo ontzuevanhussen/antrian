@@ -115,8 +115,10 @@ acct.hirezstudios.com
 boohoo.com
 freebitco.in
 akamaized.net
+api.vk.com
 
 #browser
 download.cdn.mozilla.net
 addons.mozilla.org
 dscd.akamaiedge.net
+easylist-downloads.adblockplus.org
