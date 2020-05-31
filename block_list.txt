@@ -119,3 +119,4 @@ akamaized.net
 #browser
 download.cdn.mozilla.net
 addons.mozilla.org
+dscd.akamaiedge.net
