@@ -115,3 +115,7 @@ identitysso.betfair.com
 acct.hirezstudios.com
 boohoo.com
 freebitco.in
+akamaized.net
+
+#browser
+download.cdn.mozilla.net
