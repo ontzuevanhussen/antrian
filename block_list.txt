@@ -9,6 +9,7 @@ microsoft.com.edgesuite.net
 ctldl.windowsupdate.com
 windowsupdate.com
 download.windowsupdate.com
+msn.com
 
 #mulitmedia
 joox.com
@@ -58,33 +59,33 @@ hotpornstream.com
 #gadogado
 update.nai.com
 nai.com
-archive.ubuntu.com
 tusfiles.com
 tusfiles.net
-download.windowsupdate.com
-windowsupdate.com msn.com
 bg0.market.xiaomi.com
 market.xiaomi.com
 xiaomi.com
 drakor.id
 uptobox.com
-personal.avira-update.com
-avira-update.com
 anonymox.net
-addons.mozilla.org
 edgesuite.net
 martell.kananterus.com
 kananterus.com
 eliot.kananterus.com
-ubuntu.com
-epicgames.com
 lordload.co
 bing.com
 adblockplus.org
 zippyshare.com
-duniagames.co.id
 internetpositif.uzone.id
 uzone.id
+evernote.com
+
+#games
+epicgames.com
+duniagames.co.id
+
+#antivirus
+personal.avira-update.com
+avira-update.com
 
 #pcnyaaneh
 steampowered.com
@@ -104,11 +105,9 @@ svd-cdn.com
 imgur.com
 hola.org
 shreevighnahartahospital.in
-epicgames.com
 mail.rambler.ru
 goldenfrog.com
 vk.com
-evernote.com
 zaq.ne.jp
 authserver.mojang.com
 identitysso.betfair.com
@@ -119,3 +118,4 @@ akamaized.net
 
 #browser
 download.cdn.mozilla.net
+addons.mozilla.org
