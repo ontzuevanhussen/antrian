@@ -10,6 +10,10 @@ microsoft.com.edgesuite.net
 #mulitmedia
 joox.com
 netflix.com
+soundcloud.com
+spotify.com
+radioonline.co.id
+netflix.com
 
 #pornography
 freepornfolder.com
@@ -72,3 +76,8 @@ ubuntu.com
 epicgames.com
 lordload.co
 bing.com
+adblockplus.org
+zippyshare.com
+duniagames.co.id
+internetpositif.uzone.id
+uzone.id
