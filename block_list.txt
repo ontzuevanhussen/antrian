@@ -6,6 +6,9 @@ mp.microsoft.com
 microsoft.com
 officecdn.microsoft.com.edgesuite.net
 microsoft.com.edgesuite.net
+ctldl.windowsupdate.com
+windowsupdate.com
+download.windowsupdate.com
 
 #mulitmedia
 joox.com
@@ -14,6 +17,7 @@ soundcloud.com
 spotify.com
 radioonline.co.id
 netflix.com
+bioskopkeren.digital
 
 #pornography
 freepornfolder.com
@@ -81,3 +85,16 @@ zippyshare.com
 duniagames.co.id
 internetpositif.uzone.id
 uzone.id
+
+#pcnyaaneh
+steampowered.com
+sendspace.com
+bablosoft.com
+ipinfo.io
+ipify.org
+constantcontact.com
+claroadsxml.com
+checkip.amazonaws.com
+amazonaws.com
+whatismyip.akamai.com
+akamai.com
