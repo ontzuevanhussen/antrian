@@ -98,3 +98,9 @@ checkip.amazonaws.com
 amazonaws.com
 whatismyip.akamai.com
 akamai.com
+us.claroadsxml.com
+claroadsxml.com
+svd-cdn.com
+imgur.com
+hola.org
+shreevighnahartahospital.in
