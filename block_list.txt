@@ -19,6 +19,7 @@ spotify.com
 radioonline.co.id
 netflix.com
 bioskopkeren.digital
+dramaid.tv
 
 #pornography
 freepornfolder.com
@@ -78,6 +79,7 @@ zippyshare.com
 internetpositif.uzone.id
 uzone.id
 evernote.com
+bing.net
 
 #games
 epicgames.com
