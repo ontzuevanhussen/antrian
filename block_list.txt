@@ -10,6 +10,7 @@ ctldl.windowsupdate.com
 windowsupdate.com
 download.windowsupdate.com
 msn.com
+office.com
 
 #mulitmedia
 joox.com
@@ -80,6 +81,8 @@ internetpositif.uzone.id
 uzone.id
 evernote.com
 bing.net
+apps.bittorrent.com
+bittorrent.com
 
 #games
 epicgames.com
@@ -88,6 +91,7 @@ duniagames.co.id
 #antivirus
 personal.avira-update.com
 avira-update.com
+avast.com
 
 #pcnyaaneh
 steampowered.com
