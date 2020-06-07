@@ -125,3 +125,7 @@ addons.mozilla.org
 dscd.akamaiedge.net
 easylist-downloads.adblockplus.org
 puffin.com
+mozilla.net
+mozilla.com
+mozilla.org
+chrome.google.com
