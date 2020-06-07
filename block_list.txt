@@ -134,3 +134,4 @@ mozilla.net
 mozilla.com
 mozilla.org
 chrome.google.com
+chrome-launcher.com
