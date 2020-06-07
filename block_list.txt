@@ -83,6 +83,7 @@ evernote.com
 bing.net
 apps.bittorrent.com
 bittorrent.com
+shopee.co.id
 
 #games
 epicgames.com
