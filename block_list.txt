@@ -6,6 +6,8 @@ mp.microsoft.com
 officecdn.microsoft.com.edgesuite.net
 ctldl.windowsupdate.com
 download.windowsupdate.com
+fe2.update.microsoft.com
+ds.download.windowsupdate.com
 
 #mulitmedia
 joox.com
