@@ -8,6 +8,10 @@ ctldl.windowsupdate.com
 download.windowsupdate.com
 fe2.update.microsoft.com
 ds.download.windowsupdate.com
+fg.ds.dl.windowsupdate.com.nsatc.net
+main-ds.dl.windowsupdate.com.nsatc.net
+au.c-0001.c-msedge.net
+fe2.update.microsoft.com.nsatc.net
 
 #mulitmedia
 joox.com
