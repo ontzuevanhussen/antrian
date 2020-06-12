@@ -84,6 +84,7 @@ bing.net
 apps.bittorrent.com
 bittorrent.com
 shopee.co.id
+msftncsi.com
 
 #games
 epicgames.com
