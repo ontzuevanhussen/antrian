@@ -3,14 +3,9 @@ tlu.dl.delivery.mp.microsoft.com
 dl.delivery.mp.microsoft.com
 delivery.mp.microsoft.com
 mp.microsoft.com
-microsoft.com
 officecdn.microsoft.com.edgesuite.net
-microsoft.com.edgesuite.net
 ctldl.windowsupdate.com
-windowsupdate.com
 download.windowsupdate.com
-msn.com
-office.com
 
 #mulitmedia
 joox.com
@@ -127,12 +122,8 @@ api.vk.com
 
 #browser
 download.cdn.mozilla.net
-addons.mozilla.org
 dscd.akamaiedge.net
 easylist-downloads.adblockplus.org
 puffin.com
-mozilla.net
-mozilla.com
-mozilla.org
 chrome.google.com
 chrome-launcher.com
