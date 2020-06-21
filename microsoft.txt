@@ -957,3 +957,16 @@
 0.0.0.0 zootycooninsider.com
 0.0.0.0 zootycooninsider.net
 0.0.0.0 zootycooninsider.org
+0.0.0.0 tlu.dl.delivery.mp.microsoft.com
+0.0.0.0 dl.delivery.mp.microsoft.com
+0.0.0.0 delivery.mp.microsoft.com
+0.0.0.0 mp.microsoft.com
+0.0.0.0 officecdn.microsoft.com.edgesuite.net
+0.0.0.0 ctldl.windowsupdate.com
+0.0.0.0 download.windowsupdate.com
+0.0.0.0 fe2.update.microsoft.com
+0.0.0.0 ds.download.windowsupdate.com
+0.0.0.0 fg.ds.dl.windowsupdate.com.nsatc.net
+0.0.0.0 main-ds.dl.windowsupdate.com.nsatc.net
+0.0.0.0 au.c-0001.c-msedge.net
+0.0.0.0 fe2.update.microsoft.com.nsatc.net
