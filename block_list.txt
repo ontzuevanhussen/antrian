@@ -70,6 +70,7 @@ apps.bittorrent.com
 bittorrent.com
 shopee.co.id
 msftncsi.com
+1fichier.com
 
 #games
 epicgames.com
@@ -82,3 +83,7 @@ avast.com
 
 #browser
 download.cdn.mozilla.net
+
+#news
+video.detik.com
+detik.com
